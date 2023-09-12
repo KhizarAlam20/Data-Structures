@@ -22,7 +22,7 @@ public class insertionSort {
             arr[j+1]=key;
         }
 
-        System.out.println("Print after Array : ");
+        System.out.println("DESC INSERTION SORT ON PROVIDED ARRAY : ");
         for (int i = 0; i <n ; i++) {
             System.out.print(arr[i]+"\t");
         }
