@@ -5,7 +5,7 @@ package data_structure_practice_question;
 public class insertionSort {
     public static void main(String[]args){
 
-        int arr[]={4,12,11,20};
+        int arr[]={9, 19, 14, 29, 13, 4, 23, 10, 37};
 
         int n = arr.length;
 
